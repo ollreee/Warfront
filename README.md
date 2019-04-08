@@ -4,9 +4,9 @@ Everything is highly customizable to make every play time different.
 
 Very early in development, almost nothing works. 
 
-To start the game, run main.py with Python
+To start the game, run _main.py_
 
-Required packages:
+## Required packages:
 - Python 2.x
 - Pygame
 
