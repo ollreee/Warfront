@@ -8,6 +8,8 @@ Core
 - Graphics
 
 Extras
+- Optimization
+- Custom file handling
 - Music
 - Passwords for multiplayer
 - AI
