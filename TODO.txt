@@ -1,0 +1,16 @@
+Core
+- Main menu
+- Map generation
+- Faction generation
+	- Random, preset, custom
+- Game saving
+- Save loading
+- Graphics
+
+Extras
+- Music
+- Passwords for multiplayer
+- AI
+- Single player
+- Support for language packs
+- Include Python and Pygame in a standalone package?
