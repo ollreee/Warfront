@@ -2,6 +2,8 @@
 Warfront is a multiplayer strategy game based on randomly generated maps and scenarios.
 Everything is highly customizable to make every play time different.
 
+Very early in development, almost nothing works. 
+
 To start the game, run main.py with Python
 
 Required packages:
